@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Saikiran Ponnur</h1>
-<h3 align="center">A passionate full Stack developer from India, Currently pursuing my master from Computer Science at Oklahoma State Unibversity, Stillwater</h3>
+<h3 align="center">A passionate full Stack developer from India, Currently pursuing my master from Computer Science at Oklahoma State University, Stillwater</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikiran402&label=Profile%20views&color=0e75b6&style=flat" alt="saikiran402" /> </p>
 
