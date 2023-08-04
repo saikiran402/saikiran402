@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [http://www.ponnursaikiran.me](http://www.ponnursaikiran.me)
 
-- 💬 Ask me about **React, React Native, NoSQL, VoIP Services,**
+- 💬 Ask me about **React, React Native, Android, iOS, Crypto, NoSQL, VoIP Services,**
 
 - 📫 How to reach me **saikiran.ponnur@okstate.edu**
 
